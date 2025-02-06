@@ -75,14 +75,14 @@ AppearanceKit/
 2. Go to **File > Add Packages**.
 3. Enter the repository URL:
    ```
-   https://github.com/yourusername/AppearanceKit.git
+   https://github.com/joelferreira-hash/AppearanceKit.git
    ```
 4. Select the version or branch you want to use and click **Add Package**.
 
 #### **Option 2: Manual Integration**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AppearanceKit.git
+   git clone https://github.com/joelferreira-hash/AppearanceKit.git
    ```
 2. Drag the `AppearanceKit` folder into your Xcode project.
 3. Ensure the package is added to your target's dependencies.
